@@ -9,4 +9,4 @@ Maybe there is item shop and battle pass
 # NOTICE:
 I used i litle bit of lawin servers files
 
-# IF LAWIN WANTS ME TO SHUTDOWN THIS PROJECT THEN I WILL DO UNDER LAWIN
+# IF LAWIN WANTS ME TO SHUTDOWN THIS PROJECT THEN I WILL DO UNDER LAWIN APPROVENCE
